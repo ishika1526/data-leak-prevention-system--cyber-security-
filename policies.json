@@ -1,0 +1,8 @@
+{
+  "CREDIT_CARD": "BLOCK",
+  "AADHAAR": "BLOCK",
+  "API_KEY": "BLOCK",
+  "PAN": "MASK",
+  "PHONE": "MASK",
+  "EMAIL": "WARN"
+}
